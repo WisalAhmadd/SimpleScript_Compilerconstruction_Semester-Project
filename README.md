@@ -1,6 +1,6 @@
 # SimpleScript_Compilerconstruction_Semester-Project
 
-# SimpleScript Lexer 
+# SimpleScript
 A lexical analyzer for a custom language (SimpleScript), built with JFlex as part of a Compiler Construction semester project.
 
 ## 🚀 Features  
