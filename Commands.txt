@@ -1,0 +1,14 @@
+How to Use This Lexer:
+
+
+Generate the lexer:
+java -jar jflex-full-1.9.1.jar SimpleScript.flex
+
+
+Compile the lexer:
+javac SimpleScriptLexer.java
+
+
+Run the test:
+javac TestLexer.java
+java TestLexer test.ss
