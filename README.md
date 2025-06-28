@@ -3,12 +3,12 @@
 # SimpleScript
 A lexical analyzer for a custom language (SimpleScript), built with JFlex as part of a Compiler Construction semester project.
 
-## 🚀 Features  
+## Features  
 - Tokenizes keywords, identifiers, literals, and operators.  
 - Tracks source positions for error messages.
 - 
 
-## 🔧 Usage  
+## Usage  
 First of all Install JFlex in the current directory amoung all these files present there
 then open command prompt and change your directory where all these files are including the JFlex
 now follow the next step!
